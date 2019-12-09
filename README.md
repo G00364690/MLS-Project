@@ -19,5 +19,28 @@ Using one Jupyter notebook;
 9. Compare the enhanced predictions to the expected values in the original dataset.
 10. Draw balanced conclusions.
 
+## Method
+Looking at scikit learn library
+from sklearn.datasets import load_boston //use scikit-learn to import dataset - I have csv
+boston_dataset = load_boston() //name it
+print(boston_dataset.keys()) // print Desc like in MySQL 
+dict_keys(['data', 'target', 'feature_names', 'DESCR']) //result
+boston_dataset.DESCR //just look at descriptions
+
+target variable is MEDV // median value
+feature variables used to predict target variables // 
+
+boston = pd.DataFrame(boston_dataset.data, columns=boston_dataset.feature_names) //pandas DF
+boston.head()
+
 ## Research
+In order to get an idea of what the dataset is about it is best to start with what has been previously said about the dataset and from there we can look at a number of concepts.
+
+### Basic Analysis
+The simplest way to get started is by looking at the dataset firstly through some descriptive statistics
+https://subscription.packtpub.com/book/programming/9781789804744/1/ch01lvl1sec11/our-first-analysis-the-boston-housing-dataset
+
+### Linear regression
+The clearest way to look at the dataset in relation to the target variable MEDV is to look for positively and negatively correlated feature variables
+https://towardsdatascience.com/linear-regression-on-boston-housing-dataset-f409b7e4a155 
 

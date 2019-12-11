@@ -40,6 +40,10 @@ In order to get an idea of what the dataset is about it is best to start with wh
 The simplest way to get started is by looking at the dataset firstly through some descriptive statistics
 https://subscription.packtpub.com/book/programming/9781789804744/1/ch01lvl1sec11/our-first-analysis-the-boston-housing-dataset
 
+### Feature observation
+Trying to interpret which features are powerful indicators and useful later and which have less of a correlation to the median house prices in Boston.
+https://www.ritchieng.com/machine-learning-project-boston-home-prices/
+
 ### Linear regression
 The clearest way to look at the dataset in relation to the target variable MEDV is to look for positively and negatively correlated feature variables
 https://towardsdatascience.com/linear-regression-on-boston-housing-dataset-f409b7e4a155 

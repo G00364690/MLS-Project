@@ -44,3 +44,17 @@ https://subscription.packtpub.com/book/programming/9781789804744/1/ch01lvl1sec11
 The clearest way to look at the dataset in relation to the target variable MEDV is to look for positively and negatively correlated feature variables
 https://towardsdatascience.com/linear-regression-on-boston-housing-dataset-f409b7e4a155 
 
+### Other ideas
+
+https://levelup.gitconnected.com/predict-boston-house-prices-using-python-linear-regression-90469e0a341
+
+https://gogul.dev/software/regression-example-boston-housing-prices
+
+#### Original ideas
+https://www.ritchieng.com/machine-learning-project-boston-home-prices/
+
+https://medium.com/@haydar_ai/learning-data-science-day-9-linear-regression-on-boston-housing-dataset-cd62a80775ef
+
+http://www.neural.cz/dataset-exploration-boston-house-pricing.html
+
+https://www.kaggle.com/erick5/predicting-house-prices-with-machine-learning

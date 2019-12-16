@@ -62,3 +62,9 @@ https://medium.com/@haydar_ai/learning-data-science-day-9-linear-regression-on-b
 http://www.neural.cz/dataset-exploration-boston-house-pricing.html
 
 https://www.kaggle.com/erick5/predicting-house-prices-with-machine-learning
+
+https://rstudio-pubs-static.s3.amazonaws.com/364346_811c9012a14847428c9b1fc1e956431a.html
+
+https://www.kaggle.com/sagarnildass/predicting-boston-house-prices
+
+https://www.hackerearth.com/practice/machine-learning/machine-learning-projects/python-project/tutorial/

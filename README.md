@@ -1,3 +1,4 @@
+
 # MLS-Project
 Machine Learning &amp; Statistics Project for 2019
 
@@ -68,3 +69,7 @@ https://rstudio-pubs-static.s3.amazonaws.com/364346_811c9012a14847428c9b1fc1e956
 https://www.kaggle.com/sagarnildass/predicting-boston-house-prices
 
 https://www.hackerearth.com/practice/machine-learning/machine-learning-projects/python-project/tutorial/
+
+
+#### Designing & Tuning Neural Network
+https://towardsdatascience.com/a-guide-to-an-efficient-way-to-build-neural-network-architectures-part-i-hyper-parameter-8129009f131b

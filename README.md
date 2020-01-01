@@ -71,5 +71,8 @@ https://www.kaggle.com/sagarnildass/predicting-boston-house-prices
 https://www.hackerearth.com/practice/machine-learning/machine-learning-projects/python-project/tutorial/
 
 
+#### T-test and Type I error
+http://grants.hhp.coe.uh.edu/doconnor/PEP6305/Multiple%20t%20tests.htm
+
 #### Designing & Tuning Neural Network
 https://towardsdatascience.com/a-guide-to-an-efficient-way-to-build-neural-network-architectures-part-i-hyper-parameter-8129009f131b

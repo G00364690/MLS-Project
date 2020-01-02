@@ -85,5 +85,5 @@ https://statisticsbyjim.com/anova/f-tests-anova/
 Understanding the differences between activation functions and optimizer functions
 https://missinglink.ai/guides/neural-network-concepts/7-types-neural-network-activation-functions-right/
 https://towardsdatascience.com/a-guide-to-an-efficient-way-to-build-neural-network-architectures-part-i-hyper-parameter-8129009f131b
-
+https://hackernoon.com/build-your-first-neural-network-to-predict-house-prices-with-keras-3fb0839680f4
 https://towardsdatascience.com/types-of-optimization-algorithms-used-in-neural-networks-and-ways-to-optimize-gradient-95ae5d39529f

@@ -2,6 +2,10 @@
 # MLS-Project
 Machine Learning &amp; Statistics Project for 2019
 
+## User Instructions
+1. Download Anaconda
+2. 
+
 ## Assignment Instructions
 Using one Jupyter notebook;
 1. Conduct an analysis of the Boston House Price data using descriptive statistics & plots. (20%).
@@ -49,6 +53,10 @@ https://www.ritchieng.com/machine-learning-project-boston-home-prices/
 The clearest way to look at the dataset in relation to the target variable MEDV is to look for positively and negatively correlated feature variables
 https://towardsdatascience.com/linear-regression-on-boston-housing-dataset-f409b7e4a155 
 
+### ANOVA
+
+https://support.minitab.com/en-us/minitab-express/1/help-and-how-to/modeling-statistics/anova/how-to/one-way-anova/interpret-the-results/key-results/
+
 ### Other ideas
 
 https://levelup.gitconnected.com/predict-boston-house-prices-using-python-linear-regression-90469e0a341
@@ -75,4 +83,8 @@ https://www.hackerearth.com/practice/machine-learning/machine-learning-projects/
 http://grants.hhp.coe.uh.edu/doconnor/PEP6305/Multiple%20t%20tests.htm
 
 #### Designing & Tuning Neural Network
+
+https://missinglink.ai/guides/neural-network-concepts/7-types-neural-network-activation-functions-right/
 https://towardsdatascience.com/a-guide-to-an-efficient-way-to-build-neural-network-architectures-part-i-hyper-parameter-8129009f131b
+
+https://towardsdatascience.com/types-of-optimization-algorithms-used-in-neural-networks-and-ways-to-optimize-gradient-95ae5d39529f
